@@ -1,4 +1,8 @@
 # Atags
+
+A plugin for creating tags with an Opencart products attached to them. At the moment, the output of tags is available on the pages of the product, category, search result, manufacturer products and TEG.
+
+# Atags
 Плагин для создания тэгов с привязанными к ним товарами для Opencart.
 На настоящий момент вывод тэгов доступен на страницах продукта, категории, результата поиска, товаров производителя и тэга.
 
